@@ -6,23 +6,23 @@ class Swara < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/anirbanchakraborty-dev/swara/releases/download/v0.1.0/swara-0.1.0-aarch64-apple-darwin.tar.gz"
-      sha256 "40a32c159cbd5650389783c35d560544dad5f9d059516635c609ec613527a4ff"
+      url "https://github.com/anirbanchakraborty-dev/swara/releases/download/v0.1.1/swara-0.1.1-aarch64-apple-darwin.tar.gz"
+      sha256 "d229d578282810c96cc1cedf0998e8422dc1f70aa72b34558b0769a41e91b96d"
     end
     on_intel do
-      url "https://github.com/anirbanchakraborty-dev/swara/releases/download/v0.1.0/swara-0.1.0-x86_64-apple-darwin.tar.gz"
-      sha256 "9f5df7e88b9d7631dc7b7b3cb3d5e34184ec007480bef6b1408d9eda3a63f3f9"
+      url "https://github.com/anirbanchakraborty-dev/swara/releases/download/v0.1.1/swara-0.1.1-x86_64-apple-darwin.tar.gz"
+      sha256 "80dc2f3bef79b663ced094d0cdfb04a0adfc6bec170507cafa8ac2a70dbc8689"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/anirbanchakraborty-dev/swara/releases/download/v0.1.0/swara-0.1.0-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "2e5bc5c6c246225c82a3e1bd82ce6b96b00d2106727cb92ea987df438a7361dd"
+      url "https://github.com/anirbanchakraborty-dev/swara/releases/download/v0.1.1/swara-0.1.1-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "5a6c123c4b6dc0041eb24bebea5a97cb3ca343b164dc80195fb3d3032b78bb2b"
     end
     on_intel do
-      url "https://github.com/anirbanchakraborty-dev/swara/releases/download/v0.1.0/swara-0.1.0-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "33a6d03581662e8ea491cacab48e6353b2a067a9a2d56172c7efaa501f3e2000"
+      url "https://github.com/anirbanchakraborty-dev/swara/releases/download/v0.1.1/swara-0.1.1-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "338dc01cf6598e283147792af7831c91dc0370a4e76a16e24fbb6ef781f0fbdb"
     end
   end
 
